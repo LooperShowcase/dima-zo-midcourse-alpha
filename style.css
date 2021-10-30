@@ -1,0 +1,15 @@
+body {
+  color: rgb(161, 164, 167);
+  background-color: rgb(214, 217, 218);
+}
+
+p {
+  color: rgb(114, 132, 150);
+}
+
+table,
+tr,
+th,
+td {
+  border: 5px solid rgb(112, 105, 105);
+}
